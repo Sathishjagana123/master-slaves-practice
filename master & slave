@@ -1,0 +1,45 @@
+  1  vim jenkins.sh
+    2  sh jenkins.sh
+    3   cat /var/lib/jenkins/secrets/initialAdminPassword
+    4  java --version 
+    5  yum install git -y
+    6  gir -version
+    7  git --version
+    8  cat /var/lib/jenkins/secrets/initialAdminPassword
+    9  java -version
+   10  sudo linum -extras install epal -y
+   11  sudo linux -extras install epal -y
+   12  sudo linux-extras install epal -y
+   13  sudo linux-extras install epel -y
+   14  linux-extras install epel -y
+   15  sudo amazon linux-extras install epel -y
+   16  sudo amazon-linux-extras install epel -y
+   17  java --version
+   18  update-alternateves --config java
+   19  update-alternatives --config java
+   20  systemctl status jenkins
+   21  java -version
+   22  sudo visudo
+   23  useradd jenkins 
+   24  vim /cat/etc/passwd
+   25  cat /etc/passwd
+   26  vim /etc/passwd
+   27  passwd jenkins 
+   28  visudo 
+   29  vim /etc/ssh/sshd_config
+   30  systemctl restart sshd
+   31  systemctl status  sshd
+   32  history
+   33  ss -keygen
+   34  ssh -keygen
+   35  ssh-keygen
+   36  ls
+   37  ls -al
+   38  ls /root/.ssh/id_rsa
+   39  cat /root/.ssh/id_rsa
+   40  ls .ssh/
+   41  ssh-copy-id jenkins@3.25.217.178
+   42  ssh 'jenkins@3.25.217.178
+   43  ssh 'jenkins@3.25.217.178'
+   44  ssh-copy-id jenkins@3.27.107.88
+   45  ssh 'jenkins@3.27.107.88'
